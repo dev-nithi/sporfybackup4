@@ -1,0 +1,5 @@
+export const SET_TOOL = "SET_TOOL";
+export const ADD_SHAPE = "ADD_SHAPE";
+export const UPDATE_TABLE_SEATS = "UPDATE_TABLE_SEATS";
+export const SELECT_SHAPE = "SELECT_SHAPE";
+export const GENERATE_SEAT_ZONE_ITEMS = "GENERATE_SEAT_ZONE_ITEMS";
